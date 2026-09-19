@@ -1,7 +1,4 @@
  
-### Replace your entire `README.md` with this:
-
-````md
 # Hive Inspect Template Importer
 
 A web application for importing Spectora HTML-text template exports into a structured, editable template system.
